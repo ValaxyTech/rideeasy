@@ -1,1 +1,3 @@
-# rideeasy
+# maven-project
+
+Simple Maven Project
